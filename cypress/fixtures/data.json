@@ -1,0 +1,18 @@
+{
+  "usernames":{
+      "username": "standard_user",
+      "username2": "problem_user",
+      "username3": "performance_glitch_user"
+  },
+  "password": "secret_sauce",
+  "invalid_username": "standard",
+  "invalid_password": "secret",
+  "userDetails" :{
+        "firstName" : "Harshita",
+        "lastName" : "Sri",
+        "postalCode" : "345211"
+  },
+  "paymentInfo" : "SauceCard ",
+  "shippingInfo" : "FREE PONY EXPRESS DELIVERY!",
+  "total": "Total: $32.39"
+}

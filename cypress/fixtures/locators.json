@@ -1,0 +1,24 @@
+{
+    "username" : "#user-name",
+    "password" : "#password",
+    "loginButton" : "#login-button",
+    "menuButton" : "#react-burger-menu-btn",
+    "logoutButton" : "#logout_sidebar_link",
+    "validationMessage" : "[data-test='error']",
+    "productTitle" : ".inventory_item_name",
+    "productPrice" : ".inventory_item_price",
+    "productDescription" : ".inventory_item_desc",
+    "addToCartButton" : ".btn_inventory",
+    "shoppingCartIcon" : ".shopping_cart_badge",
+    "removeButton" : "#remove-sauce-labs-backpack",
+    "cartItem" : ".removed_cart_item",
+    "checkoutButton" : "[name='checkout']",
+    "userDetails" : {
+            "firstName" : "#first-name",
+            "lastName" : "#last-name",
+            "postalCode" : "#postal-code"
+    },
+    "continueButton" : "#continue",
+    "paymentInfo" : ".summary_value_label",
+    "totalValue" : ".summary_total_label"
+}

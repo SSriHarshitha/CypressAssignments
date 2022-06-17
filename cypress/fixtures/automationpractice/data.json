@@ -1,0 +1,15 @@
+{
+    "emailValue" : "hear19922@mail.com",
+    "password" : "test@123",
+    "addressDetails" : {
+        "firstName" : "Jimmy",
+        "lastName" : "colon",
+        "company" : "LV",
+        "address" : "flat no 9,friends colony",
+        "city" : "maimi",
+        "zipCode" : "35213",
+        "phoneNum" : "2343243883",
+        "aliasAddress" : "near fortune school"
+    },
+    "cartMessage" : "Your shopping cart is empty."
+}
